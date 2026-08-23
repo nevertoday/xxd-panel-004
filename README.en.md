@@ -44,11 +44,25 @@ If another city or theme could replace the input without materially changing the
 - **Theme-specific colour:** monochrome or very limited colour derives from climate, light, time, material, history, commerce, food, nature, and mood.
 - **Collectible type system:** one clear title and zero to three reliable supporting fields enter the grid; never invent local language, address, coordinates, year, or signs.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 004 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
+> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
 
-Future samples will demonstrate 004's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 004 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one reality-plus-line logic
 
