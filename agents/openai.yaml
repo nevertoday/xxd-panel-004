@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 004"
+  short_description: "Create credible reality-plus-modern-line theme posters."
+  default_prompt: "Use $xxd-panel-004 to build one credible reality scene from my theme or reference and distil it into a precise modern line poster; ask first for modes, canvas, and copy or language preferences."
