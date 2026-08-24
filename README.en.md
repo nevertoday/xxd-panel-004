@@ -42,7 +42,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
 
 These samples demonstrate the 004 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 004 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Build one credible reality scene, then distil it into a collectible modern line poster |
+| **Recognizable signature** | LOCAL REALITY · PRECISE SINGLE LINE · GEOMETRIC PERSPECTIVE · THEME COLOUR · CITY-BRAND TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “City poster” easily collapses into a landmark collage, postcard sunset, travel stickers, and an interchangeable generic skyline.
 
@@ -54,7 +65,7 @@ confirm theme and reliable facts → establish one unified reality anchor → lo
 
 If another city or theme could replace the input without materially changing the reality scene, line structure, perspective, local text, palette, or copy, the result is not 004.
 
-## The 004 visual contract
+## What makes the finished style recognizable
 
 - **Credible reality scene:** references, addresses, coordinates, and reliable facts take priority; local elements coexist in one space without attraction collage or invented signs.
 - **Theme-specific identity:** retain at least three local or thematic cues such as skyline, street direction, façade opening, sign rhythm, transport fixture, people state, or core structure.
