@@ -24,6 +24,26 @@ XXD Panel 004 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 لا تنسخ النتيجة سطح الصورة، بل تجد تحويلاً بصرياً واحداً ذكياً وخفيفاً مرتبطاً بها. تجمع بين الرسم التحريري الحداثي، ونظام الباوهاوس، ودفء كتب الأطفال، وعفوية رسم الأزياء. تبدو الكتابة كملاحظة مقتصدة تركها الرسام، لا كعنوان إعلاني أضيف لاحقاً.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
+> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 004 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 004؟
 
 يتحوّل «ملصق المدينة» بسهولة إلى تجميع معالم وغروب بطاقة بريدية وملصقات سفر وأفق عام يمكن تبديله بين أي مدينتين.
@@ -46,26 +66,6 @@ XXD Panel 004 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **لون خاص بالموضوع:** أحادي أو محدود مشتق من المناخ والضوء والزمن والمواد والتاريخ والتجارة والطعام والطبيعة والمزاج.
 - **ورق دافئ وعدم كمال الطباعة:** ألياف وحواف خشنة ونفاذ خفيف وانزياح تسجيل طفيف كدلائل مادية، لا كضجيج رقمي متجانس.
 - **نظام كتابة قابل للاقتناء:** عنوان واضح مع معلومات مساعدة موثوقة داخل الشبكة؛ لا اختلاق للغة المحلية أو العنوان أو الإحداثيات أو السنة.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
-> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 004 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

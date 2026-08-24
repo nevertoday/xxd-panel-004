@@ -22,6 +22,26 @@ XXD Panel 004 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面不复制照片表面，而是从源图事实中找到一个聪明、轻巧、可回看的视觉转化。它融合现代主义编辑插画、包豪斯秩序、绘本温度和时装速写的松弛感；文字像画者顺手留下的克制手写注记，而不是后来贴上去的广告标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
+> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 004 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 004
 
 普通“城市海报”很容易退化成地标拼贴、明信片夕阳、旅游贴纸和通用天际线；主题只剩名称，任何城市都能互换。
@@ -43,26 +63,6 @@ XXD Panel 004 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **服务结构的几何：** 水平基线、纵向构成线和透视辅助线只用于对齐、层级与节奏。
 - **主题专属配色：** 单色或极少量色彩来自气候、光线、时间、材料、历史、商业、饮食、自然与情绪。
 - **收藏级文字系统：** 一个清晰主标题与零至三条可靠辅助信息共同进入网格；当地语言、地址、坐标、年份和店招不得编造。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
-> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 004 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

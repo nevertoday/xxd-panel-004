@@ -22,6 +22,26 @@ XXD Panel 004는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 사진의 표면을 그대로 베끼지 않고 원본의 사실에 묶인 영리하고 가벼운 시각적 전환 하나를 찾습니다. 모더니즘 편집 일러스트, 바우하우스의 질서, 그림책의 온기, 패션 스케치의 여유가 함께하며, 글자는 나중에 붙인 광고 제목이 아니라 그린 사람이 남긴 절제된 메모처럼 작동합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
+> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 004의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 004이 필요한가요
 
 일반적인 ‘미니멀 선화’는 예쁘지만 비어 있는 장식 곡선, 기계적인 한 줄 트레이싱, 주먹·새장·눈물·사슬 같은 상투적 의제 아이콘으로 쉽게 무너집니다.
@@ -44,26 +64,6 @@ XXD Panel 004는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **주제 고유 색:** 단색 또는 소수 색을 기후, 빛, 시간, 재료, 역사, 상업, 음식, 자연과 분위기에서 도출합니다.
 - **따뜻한 종이와 인쇄 오차:** 종이 섬유, 거친 가장자리, 약한 비침과 미세한 어긋남을 균일한 노이즈가 아닌 재료의 증거로 남깁니다.
 - **그림에서 자라는 글자:** 손글씨 제목과 온화한 명조 또는 고딕 보조 글자를 어긋남, 기울기, 늘임, 색 겹침, 판 어긋남으로 절제해 통합합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
-> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 004 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 004 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 004 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 004 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 004의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
