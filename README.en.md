@@ -64,29 +64,20 @@ If another city or theme could replace the input without materially changing the
 
 These samples demonstrate the 004 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Four outputs, one reality-plus-line logic
+## Four combinable output modes
 
-The four modes support single or multiple selection. Reply with `1`, `1+3`, `1,2,4`, or `all`; the Skill deduplicates and runs them in menu order 1→4. Every mode is delivered independently in its own task directory—never as an overview—and `all` yields seven PNGs per input. Reference-led modes adapt to the reference; theme-only tasks resolve a canvas first. Copy is shared across selected modes by default and may be overridden per mode.
+Choose one or several modes with `1`, `1+3`, `1,2,4`, or `all`; `all` produces seven separate PNGs per source. After mode selection and before generation, the Skill explicitly asks for the whole finished canvas: the original-prompt `3:4`, an explicit source-aspect choice, a common ratio, or custom ratio/exact pixels. Source dimensions are never applied silently.
 
-| Mode | Sizing logic | Deliverable |
+| Mode | Canvas rule | Result |
 | --- | --- | --- |
-| `top-bottom` | reference/anchor adaptive | complete reality scene above, 004 modern line design below; equal-size panels split exactly 50/50 |
-| `left-right` | reference/anchor adaptive | complete reality scene left, 004 modern line design right; equal-size panels split exactly 50/50 |
-| `design-only` | reference/anchor adaptive | line design only, with no visible reality scene; retains reference or anchor ratio and dimensions |
-| `wallpaper-pack` | four device sizes | separate phone, iPad, desktop, and children's-watch PNGs |
+| `top-bottom` | user-confirmed whole canvas | one complete generation: high-fidelity source above, 004 design below, approximately 50/50 |
+| `left-right` | user-confirmed whole canvas | one complete generation: high-fidelity source left, 004 design right, approximately 50/50 |
+| `design-only` | user-confirmed whole canvas | 004 design fills the canvas; source remains invisible |
+| `wallpaper-pack` | confirmed per device | separate phone, iPad, desktop, and children's-watch PNGs |
 
-Exact user pixels > explicit ratio or destination > reference/reality-anchor adaptation. A theme-only task resolves a canvas before generating its anchor. The original `004.md` 3:4 canvas is not a silent default.
+Paired modes use the source as a high-fidelity edit/reference input and one complete style prompt to generate the finished composition directly, so photography, design, colour, light, typography, and meaning can cohere. Deterministic composition is fallback-only: after one targeted complete-canvas retry fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless final pixel calibration.
 
-A supplied photograph stays truthful; a generated reality anchor stays faithful to verified theme facts and one coherent scene. Design-only and wallpapers use the same anchor as evidence but do not show it.
-
-### Wallpaper packs: linked or independent
-
-Wallpaper mode has no silent size default. Choose the common preset—phone `1440×3200`, iPad `2048×2732`, desktop `3840×2160`, watch `1024×1024`—or give labelled custom sizes.
-
-- **Linked pack (recommended):** approve the iPad line anchor first; every other device references the same reality scene plus that line anchor and is recomposed for its canvas.
-- **Independent set:** every device references only the same reality-scene anchor and may explore different line selection, perspective density, whitespace, and title grid.
-
-Linked never means cropped. All four files are separately generated, composed, and reviewed, with no iPad→phone→desktop→watch reference chain.
+Wallpapers may be linked or independent. A linked pack approves one iPad anchor, then recomposes every other device from the original plus that same anchor. An independent pack gives each device only the original. Neither crops another device output nor chains derivatives.
 
 ## Copy is the city-brand information skeleton
 
@@ -106,17 +97,11 @@ target market or audience > requested output language > direction language; if n
 
 A Japanese edition uses natural Japanese, a Korean-audience edition uses natural Korean and correct spacing, a UK edition uses British English, and Arabic defaults to natural Modern Standard Arabic with genuine right-to-left composition. The Skill never guesses nationality from appearance, clothing, scenery, or signs and never uses pseudo-foreign text.
 
-## Code guarantees geometry; image generation creates the artwork
+## Complete-canvas first, raster-only delivery
 
-The image model creates the reality anchor, local-cue distillation, precise line, geometric perspective, detail rhythm, theme colour, and type grid. `scripts/compose_panel.py` only plans canvases, performs exact 50/50 raster composition, finalises dimensions, and audits results. It never fakes artwork with programmatic drawing.
+The image model owns the aesthetics of the entire finished composition; paired layouts also default to one complete-canvas generation. `scripts/compose_panel.py` remains only for condition-based recovery, lossless pixel calibration, and read-only audit. It is not run pre-emptively and does not judge aesthetic success.
 
-```bash
-python3 scripts/compose_panel.py --plan --layout top-bottom --source photo.png
-python3 scripts/compose_panel.py --plan --layout left-right --size 2560x1440
-python3 scripts/compose_panel.py --audit result.png --layout design-only --size 2048x2048
-```
-
-Exact top-bottom canvases need an even total height; left-right canvases need an even total width. Requested pixels are never silently changed.
+Every deliverable is a raster PNG and every invocation creates a fresh task under `~/Desktop/xxd/`. The configured image route exposes sanitised status only—never providers, endpoints, credentials, headers, prompts, responses, or account details. SVG, HTML, Canvas, diagrams, and programmatic drawing are not substitutes for the final artwork.
 
 ## Get started
 
