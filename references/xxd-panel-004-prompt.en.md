@@ -1,90 +1,79 @@
-# XXD Panel 004 · Local Reality and Modern Line Core
+# XXD Panel 004 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/004-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 004. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Treat the caller's current theme, verified facts, reference images, and approved reality-scene anchor as the sole content source. Never borrow places, buildings, signs, people, palettes, or copy from samples, other tasks, or historical outputs.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-## 0. Immutable aesthetic motive
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Every line-design frame must express:
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-**one approved, coherent reality scene with everyday warmth → lock its most recognisable subject, skyline, street interface, signage rhythm, transport fixture, shopfront relation, people state, or structural memory → distil rather than mechanically trace → redesign with fine accurate single line, clear geometric perspective, ordered detail rhythm, controlled whitespace, and measured abstraction → derive monochrome or very limited colour from the theme's climate, light, time, material, history, commerce, food memory, nature, and mood → integrate a clear title and reliable place information into the same line grid**.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-This is not a landmark collage, tourism brochure, postcard, city-icon pack, or generic skyline. Place identity comes from real spatial relations, local scripts, building interfaces, facilities, and daily rhythm. A non-place theme is grounded in identity, silhouette, structure, gesture, relation, and visual memory.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-## 1. Reality-scene fact lock
+### Text generated from the original prompt
 
-Privately determine:
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-1. The reality anchor matches the user's theme, references, address, coordinates, and factual notes.
-2. For a place, lock at least three local cues across spatial layout, street direction and width, building interface, defining openings, shopfront/sign rhythm, transport facilities, window relation, people activity, local script, material, climate, or time.
-3. For a non-place theme, lock at least three identity cues across contour, structure, pose, direction, connection, negative shape, proportion, or relational distance.
-4. Select one principal hierarchy and one reading path. Landmarks, food, people, and symbols cannot compete as separate attractions.
-5. Retain local language, shop signs, address, coordinates, year, and proper names only when reliable. Remove or subordinate uncertainty; never invent it.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## 2. Fine accurate line translation
+### User-exact text
 
-- Select the skyline, street interface, road perspective, façade rhythm, sign sequence, transport element, shop-window relation, people state, or subject contour that most strongly identifies the theme.
-- Rebuild with fine, clear, accurate single line, preserving geometric perspective, overlap, and proportion without tracing every pixel.
-- Create richness through line density, spacing, overlap, blank-to-mark ratio, and sparse local weight rather than realistic light and shade.
-- Keep the line clean without becoming sterile; allow only a faint absorbed-ink or printed-paper character. Reject sketch clutter, wire entanglement, thorns, knots, comic outlines, glossy icon packs, and 3D.
-- The theme remains immediately recognisable at thumbnail size. Simplification cannot remove identity.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-## 3. Geometric order and whitespace
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-- A few horizontal baselines, vertical construction lines, perspective guides, or simple geometric elements may organise streets, buildings, type, and reading rhythm.
-- Every guide serves perspective, alignment, hierarchy, or rhythm; none is decorative.
-- Keep the composition unified, quiet, modern, agile, and restrained. Do not fill evenly or exaggerate one landmark into a tourism badge.
-- Render no miniature map, attraction grid, postage border, travel sticker, flag collection, or unrelated icon.
+### No text
 
-## 4. Theme-specific restrained colour
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-- Derive principal and ground colour from climate, natural light, time, architecture, material, historical character, commercial warmth, food memory, environment, and emotional texture.
-- Prefer monochrome print aesthetics or one to three restrained colours. Build depth through value, line density, local weight, and whitespace.
-- With a reference, every major colour relation remains explainable from the anchor. With a theme alone, colour stays consistent with reliable scene facts.
-- Reject fixed template palettes, flag schemes, generic retro beige, postcard sunsets, rainbow fill, fluorescence, and broad digital gradients.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-## 5. Typography specific to 004
-
-Type is **a collectible travel-poster or city-brand information hierarchy**, not a pasted explanatory label.
-
-- Automatic copy forms one clear principal title from the user's theme. Zero to three supporting elements may use original theme wording, natural local language, verified country or region, address, coordinates, number, year, or one short factual note.
-- Never invent address, coordinates, year, local spelling, landmark, business name, or slogan. Street and storefront text must be clear, natural, and professionally spelled; omit what cannot be rendered reliably.
-- The title is prominent without overpowering scene identity. Smaller information aligns with the grid, baselines, margins, and line structure.
-- Use native modern editorial construction, punctuation, spacing, shaping, and semantic line breaks for Chinese, Japanese, Korean, Arabic, and Latin scripts. Arabic uses genuine right-to-left composition.
-- Preserve final user wording verbatim. Text-free mode contains no title, sign, number, or pseudo-text; unavoidable scene text becomes non-text structure rather than gibberish.
-
-## 6. Current mode and wallpaper
-
-The caller appends the one resolved mode, exact dimensions, reality-scene visibility, and locked copy. Execute only those values:
-
-- Paired output generates only the line-design frame; the reality anchor is prepared and composed separately.
-- Design-only and wallpapers contain no reality scene, seam, or photographic placeholder.
-- Recompose theme cues, perspective, whitespace, title grid, and system-UI safe areas for every device aspect. Render no clock, icons, dock, controls, or frame.
-- In linked wallpaper, the reality anchor locks content and facts while the iPad line anchor locks only abstraction grammar, perspective discipline, line weight, palette, whitespace, and typography. Never crop or chain derivatives.
-
-## 7. Pre-generation check
-
-1. Reality scene matches the theme, reference, address, or coordinates, with no attraction collage or invented place fact.
-2. At least three theme-specific cues survive and remain recognisable at thumbnail size.
-3. Line is fine and accurate, perspective is clear, detail rhythm is ordered, and the result distils rather than traces.
-4. Horizontal, vertical, and geometric guides all serve structure; there is no decorative clutter, icon scattering, or dense scene copying.
-5. Monochrome or very limited colour derives from theme climate, light, material, and cultural mood rather than a fixed template.
-6. Title and supporting information are accurate, native to the target locale, and grounded; address, coordinates, year, signs, and proper names are reliable.
-7. Mode, dimensions, reality-scene visibility, wallpaper safe areas, and copy obey the appended values.
-8. There is no overview collage, logo, watermark, UI, mockup, postage border, travel sticker, or second focus.
+```text
+complete verbatim 004-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
