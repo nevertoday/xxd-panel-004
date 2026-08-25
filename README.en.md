@@ -16,16 +16,7 @@
 
 </div>
 
-> LOCAL REALITY · PRECISE SINGLE LINE · GEOMETRIC PERSPECTIVE · THEME COLOUR · CITY-BRAND TYPE
-
-XXD Panel 004 is an image-generation Skill for Codex and compatible agents. It accepts a theme, place, address, coordinates, or reference image: first establish one coherent, credible scene with everyday warmth, then distil its recognisable skyline, street interface, sign rhythm, transport fixtures, shopfront relations, people state, or thematic structure into fine accurate line, clear perspective, and quiet modern poster design.
-
-The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
-> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089972269724619259) · 2026-08-19<br>
+> GPT2 x 转绘 x 规则线条 x 美学提示词 x VOL.004
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089972269724619259">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 004 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> LOCAL REALITY · PRECISE SINGLE LINE · GEOMETRIC PERSPECTIVE · THEME COLOUR · CITY-BRAND TYPE
+
+XXD Panel 004 is an image-generation Skill for Codex and compatible agents. It accepts a theme, place, address, coordinates, or reference image: first establish one coherent, credible scene with everyday warmth, then distil its recognisable skyline, street interface, sign rhythm, transport fixtures, shopfront relations, people state, or thematic structure into fine accurate line, clear perspective, and quiet modern poster design.
+
+The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 004 right for you?
