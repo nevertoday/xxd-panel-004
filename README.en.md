@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 004
+# 🦁 XXD Panel 004｜Urban Single-Line Journal
 
 ### Build one credible reality scene, then distil it into a collectible modern line poster
 

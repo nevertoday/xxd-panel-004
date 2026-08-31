@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 004
+# 🦁 XXD Panel 004｜도시 원라인 저널
 
 ### 신뢰할 수 있는 현실 장면에서 소장하고 싶은 현대 선화 포스터로
 
