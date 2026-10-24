@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 004｜Urban Single-Line Journal: pairs a believable, lived-in scene of a city, street, landmark or other theme with a modern line poster distilled from it — thin, precise single lines and clear geometric perspective that keep the skyline, street front, signs or transport recognisable, an orderly rhythm of detail, a theme-specific one-ink or very small palette, and a headline at the top with a subtitle such as the local name, address, coordinates or year, with street text kept accurate. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. The brief is written around a named place or theme, so street, landmark and object photos with clear structure fit best. Use when the user invokes xxd-panel-004 or asks for single-line city posters, modern line-art travel posters or urban brand line drawings from a photo.",
+  "short_description": "城市单线志：把一个真实场景提炼成精准单线、几何透视的收藏级城市线描海报",
+  "zh-CN": {
+    "name": "城市单线志",
+    "tagline": "把一个真实的城市或地点场景，提炼成精准单线、几何透视的收藏级线描海报。",
+    "look": "一边是可信、有生活感的现实场景，另一边从中提炼最好认的天际线、街道立面、招牌节奏、交通设施或人群状态，用纤细准确的单线和清楚的几何透视重新画出，细节有秩序地疏密排开，再加几条水平线或纵向构成线。颜色按主题自己的气候、光线和材料来定，多是单色印刷感或极少几种颜色，靠线的疏密和局部压重做出层次。顶部有醒目的主标题，副标题可以是当地语言的名字、地址、坐标、编号或年份，画面里的街头文字要清楚、拼写正确。",
+    "traits": [
+      "现实场景",
+      "精准单线",
+      "几何透视",
+      "主题配色",
+      "城市品牌"
+    ],
+    "good": [
+      "结构清楚的城市画面：街角、骑楼、老店门面、有轨电车、天际线",
+      "有代表性的地标或街区，并且你希望把它的在地特征留住",
+      "非城市但轮廓明确的主题：一座灯塔、一辆老火车、一台咖啡机"
+    ],
+    "poor": [
+      "结构很少的特写：占满画面的人脸、一碗汤、雾里看不清的景",
+      "想要旅游宣传或明信片式热闹效果的需求",
+      "想要大面积浓烈色彩或手绘涂抹感的图"
+    ]
+  },
+  "en": {
+    "name": "Urban Single-Line Journal",
+    "tagline": "Distils a real city or place scene into a collectible modern poster of precise single lines and clear perspective.",
+    "look": "One side is a believable, lived-in scene; the other takes its most recognisable skyline, street front, rhythm of signs, transport or people and redraws them in thin, precise single lines with clear geometric perspective, detail spaced in an orderly rhythm and a few horizontal or vertical guide lines. Colour is chosen from the place's own climate, light and materials, usually a one-ink print look or a very small palette, with depth built from line density and a few heavier areas. A clear headline sits at the top, with a subtitle such as the local-language name, an address, coordinates, a number or a year, and any street text in the picture stays legible and correctly spelled.",
+    "traits": [
+      "Real scenes",
+      "Precise single line",
+      "Geometric perspective",
+      "Theme-specific colour",
+      "City branding"
+    ],
+    "good": [
+      "City views with clear structure: street corners, arcades, old shopfronts, trams, skylines",
+      "A landmark or neighbourhood whose local character you want to keep",
+      "Non-city themes with a strong outline: a lighthouse, an old train, an espresso machine"
+    ],
+    "poor": [
+      "Close-ups with little structure: a face filling the frame, a bowl of soup, a scene lost in fog",
+      "Requests for a busy tourist-brochure or postcard look",
+      "Requests for large areas of strong colour or loose painted texture"
+    ]
+  },
+  "ja": {
+    "name": "都市一本線手帳",
+    "tagline": "実在の街や場所の風景を、正確な一本線と幾何学的な遠近で描くコレクション向けの線画ポスターにします。",
+    "look": "片側は生活感のある信頼できる現実の場面、もう片側はそこからいちばんわかりやすいスカイライン、通りの建物の並び、看板のリズム、交通機関、人の様子を取り出し、細く正確な一本線とはっきりした幾何学的遠近で描き直します。細部は秩序ある疎密で並べ、水平線や縦の構成線を少し加えます。色はその土地の気候、光、素材から決め、たいていは単色刷りの趣か、ごく少ない色数で、線の密度と部分的な濃さで奥行きを出します。上部に目立つタイトル、サブタイトルには現地語の名前、住所、座標、番号、年号などが入り、絵の中の街の文字ははっきり正しく書かれます。",
+    "traits": [
+      "現実の場面",
+      "正確な一本線",
+      "幾何学的遠近",
+      "テーマ別の配色",
+      "都市ブランド"
+    ],
+    "good": [
+      "構造のはっきりした街の写真：街角、アーケード、古い店構え、路面電車、スカイライン",
+      "土地らしさを残したいランドマークや街区",
+      "街以外でも輪郭の明快なテーマ：灯台、古い列車、エスプレッソマシン"
+    ],
+    "poor": [
+      "構造の少ないクローズアップ：画面いっぱいの顔、一杯のスープ、霧でかすんだ景色",
+      "観光パンフレットや絵はがきのようなにぎやかさを求める場合",
+      "強い色の大きな面や、筆で塗った質感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "도시 원라인 저널",
+    "tagline": "실제 도시나 장소의 풍경을 정확한 단선과 기하학적 원근의 소장용 선화 포스터로 정리합니다.",
+    "look": "한쪽은 생활감 있는 믿을 만한 현실 장면이고, 다른 쪽은 거기서 가장 알아보기 쉬운 스카이라인, 거리의 건물 면, 간판의 리듬, 교통 시설, 사람들의 모습을 골라 가늘고 정확한 단선과 분명한 기하학적 원근으로 다시 그립니다. 세부는 질서 있는 밀도로 배치하고 수평선이나 세로 구성선 몇 개를 더합니다. 색은 그 장소의 기후, 빛, 재료에서 정하며 대개 단색 인쇄 느낌이거나 아주 적은 색만 쓰고, 선의 밀도와 부분적인 무게로 깊이를 만듭니다. 위쪽에 눈에 띄는 제목, 부제에는 현지어 이름, 주소, 좌표, 번호, 연도 등이 들어가고, 그림 속 거리 글자는 또렷하고 철자가 정확합니다.",
+    "traits": [
+      "현실 장면",
+      "정확한 단선",
+      "기하학적 원근",
+      "주제별 배색",
+      "도시 브랜드"
+    ],
+    "good": [
+      "구조가 분명한 도시 사진: 골목 모퉁이, 아케이드, 오래된 가게 정면, 트램, 스카이라인",
+      "지역의 특징을 남기고 싶은 랜드마크나 동네",
+      "도시가 아니어도 윤곽이 뚜렷한 주제: 등대, 옛 기차, 에스프레소 머신"
+    ],
+    "poor": [
+      "구조가 거의 없는 클로즈업: 화면을 채운 얼굴, 국 한 그릇, 안개에 묻힌 풍경",
+      "관광 홍보물이나 엽서처럼 북적이는 느낌을 원하는 경우",
+      "강한 색의 넓은 면이나 붓으로 칠한 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر خط المدينة الواحد",
+    "tagline": "يختصر مشهداً حقيقياً من مدينة أو مكان في ملصق خطي حديث بخطوط مفردة دقيقة ومنظور هندسي واضح.",
+    "look": "في جانبٍ مشهد واقعي مقنع ينبض بالحياة اليومية، وفي الجانب الآخر يُستخلص منه أوضح ما فيه من أفق المدينة وواجهات الشارع وإيقاع اللافتات ووسائل النقل وحركة الناس، ويُعاد رسمه بخطوط مفردة رفيعة ودقيقة ومنظور هندسي واضح، مع تفاصيل موزّعة بإيقاع منتظم وبضعة خطوط أفقية أو عمودية. يُختار اللون من مناخ المكان وضوئه وموادّه، وغالباً ما يكون بمظهر طباعة بحبر واحد أو بعدد قليل جداً من الألوان، ويُبنى العمق من كثافة الخطوط وبعض المناطق الأثقل. في الأعلى عنوان واضح، وتحته عنوان فرعي مثل اسم المكان بلغته المحلية أو عنوانه أو إحداثياته أو رقم أو سنة، وتبقى كتابات الشارع في الصورة مقروءة وصحيحة الإملاء.",
+    "traits": [
+      "مشاهد واقعية",
+      "خط مفرد دقيق",
+      "منظور هندسي",
+      "ألوان خاصة بالموضوع",
+      "هوية المدن"
+    ],
+    "good": [
+      "مناظر مدينة واضحة البنية: زوايا الشوارع، الأروقة، واجهات المحلات القديمة، الترام، أفق المدينة",
+      "معلم أو حيّ تريد الحفاظ على طابعه المحلي",
+      "موضوعات غير مدنية بحدود واضحة: منارة، قطار قديم، آلة إسبريسو"
+    ],
+    "poor": [
+      "لقطات قريبة قليلة البنية: وجه يملأ الإطار، طبق حساء، منظر يغمره الضباب",
+      "طلب مظهر صاخب يشبه كتيّبات السياحة أو البطاقات البريدية",
+      "طلب مساحات كبيرة من الألوان القوية أو ملمس الطلاء الحر"
+    ]
+  }
+}

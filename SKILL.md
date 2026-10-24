@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-004
-description: "Create XXD Panel 004 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-004 or requests the exact Panel 004 style."
+description: "XXD Panel 004｜Urban Single-Line Journal: pairs a believable, lived-in scene of a city, street, landmark or other theme with a modern line poster distilled from it — thin, precise single lines and clear geometric perspective that keep the skyline, street front, signs or transport recognisable, an orderly rhythm of detail, a theme-specific one-ink or very small palette, and a headline at the top with a subtitle such as the local name, address, coordinates or year, with street text kept accurate. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. The brief is written around a named place or theme, so street, landmark and object photos with clear structure fit best. Use when the user invokes xxd-panel-004 or asks for single-line city posters, modern line-art travel posters or urban brand line drawings from a photo."
 ---
 
 # XXD Panel 004
